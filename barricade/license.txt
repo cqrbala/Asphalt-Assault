@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Barricade
+* source:	https://sketchfab.com/3d-models/stylized-barricade-2755aaed994d4aae82ba815af68bf138
+* author:	Oscar Royo (https://sketchfab.com/oscarroyo4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Barricade" (https://sketchfab.com/3d-models/stylized-barricade-2755aaed994d4aae82ba815af68bf138) by Oscar Royo (https://sketchfab.com/oscarroyo4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

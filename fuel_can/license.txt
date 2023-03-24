@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fuel can with pbr textures
+* source:	https://sketchfab.com/3d-models/fuel-can-with-pbr-textures-d7178debdf99459e95f5b9f8d3b6ad71
+* author:	Jobin.Jeeji (https://sketchfab.com/Jobin.Jeeji)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fuel can with pbr textures" (https://sketchfab.com/3d-models/fuel-can-with-pbr-textures-d7178debdf99459e95f5b9f8d3b6ad71) by Jobin.Jeeji (https://sketchfab.com/Jobin.Jeeji) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
